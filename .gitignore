@@ -1,0 +1,10 @@
+logs/*
+data/*
+**/__pycache__
+**/*.out
+.vscode
+**/build
+**/dist
+**/dvgo_cu.egg-info
+
+
